@@ -64,18 +64,18 @@ hold on;
 % Valor final
 line([0 t_final], [Km Km], 'Color', 'r', 'LineStyle', '--', 'LineWidth', 1.5);
 
-% b) Punto característico en t = T (63.2% del valor final)
+% Punto característico en t = T
 y_T = 0.632 * Km;
 plot(T, y_T, 'ro', 'MarkerSize', 8, 'MarkerFaceColor', 'r');
 line([T T], [0 y_T], 'Color', 'k', 'LineStyle', ':');
 line([0 T], [y_T y_T], 'Color', 'k', 'LineStyle', ':');
 
-% c) Punto característico en t = 4T (98.2% - Criterio de tiempo de asentamiento)
+% Punto característico en t = 4T
 t_asentamiento = 4 * T;
 y_4T = 0.982 * Km;
 plot(t_asentamiento, y_4T, 'mo', 'MarkerSize', 8, 'MarkerFaceColor', 'm');
 
-% 7. Títulos y valores
+% Títulos y valores
 title(['Respuesta al Escalón Unitario: G(s) = ', num2str(Km), ' / (', num2str(T), 's + 1)'], 'FontSize', 12);
 xlabel('Tiempo (s)', 'FontSize', 11);
 ylabel('Respuesta y(t)', 'FontSize', 11);
