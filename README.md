@@ -1,9 +1,4 @@
-Hola:
-Por favor agregar su nombre y su ID para poder saber a quien corresponde el repositorio.
-Gracias, 
-
-Luis C. Rosales A. 
-
+# William Sanchez Ramirez 2018235622 ---- Willysan23
 ### Laboratorio de Control Automatico
 #### Proyecto Individual #1
 <p>
