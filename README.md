@@ -5,4 +5,5 @@ Esta es la carpata del proyecto #1 del curso Laboratorio de Control Automatico d
 </p>
 
 ######Pasos para ejecutar el script
-- Iniciar el programa
+- Ejecutar el programa llamado "Proyecto 1"
+- Ingresar los valores requeridos por el Script (Cada valor debe ser mayor a 0)
