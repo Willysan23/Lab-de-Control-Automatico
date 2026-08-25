@@ -13,6 +13,6 @@ Esta es la carpata del proyecto #1 del curso Laboratorio de Control Automatico d
 - El Script llamado "Proyecto2" se debe agregar a la carpeta en donde se encuentra el programa Octave.
 - Al agregar el script, se debe de ejecutar el mismo, este se ejecuta con el comando "Proyecto2".
 - El programa le solicita al usuario ingresar los ceros y los polos de la Funcion de Transferencia. Se deben ingresar de la siguiente forma:
-####### Ejemplo: [-1 -2 -3]
-Se debe ingresar los datos rodeados de paréntesis cuadrados "[]" y los datos internamenete deben ir separados solamente por un espacio "-1 -2 -3"
+Ejemplo: [-1 -2 -3]. 
+- Se debe ingresar los datos rodeados de paréntesis cuadrados "[]" y los datos internamenete deben ir separados solamente por un espacio "-1 -2 -3"
 - El programa debe de imprimir el gráfico con los ceros y polos y se debe obtener el resultado del sistema, si es estable o no es estable.
